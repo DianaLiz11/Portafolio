@@ -1,25 +1,32 @@
-import React from 'react';
-//import logo from './logo.svg';
+import React, {Component} from 'react';
+import { BrowserRouter, Route } from "react-router-dom";
 import './App.css';
-//import './components/Navigation';
+import Navigation from './components/Navigation';
+import Home from './views/Home';
+import AboutMe from './views/AboutMe';
+import Contact from './views/Contact'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-      <nav>
-        <div className="nav-wrapper">
-          <a href="#" className="brand-logo">DM</a>
-          <ul id="nav-mobile" className="right hide-on-med-and-down">
-            <li><a href="">Inicio</a></li>
-            <li><a href="#">Acerca de mi</a></li>
-            <li><a href="#">Contactame</a></li>
-          </ul>
+class App extends Component {
+  render() {
+    return (
+      <BrowserRouter>
+        <div className="App">
+          <header>
+            <Navigation title ="DM" />
+          </header>
+          <Route exact path="/" component={Home}/>
+          <Route path="/AboutMe" component={AboutMe}/>
+          <Route path="/Contact" render={()=> <Contact />}/>
         </div>
-      </nav>
-      </header>
-    </div>
-  );
+      </BrowserRouter>
+    );
+  }
 }
 
 export default App;
+
+
+
+// <Route exact path="/" render={()=> <Home title = "Mis proyectos" />}/>
+// <Route path="/AboutMe" render={()=> <AboutMe title = "Acerca de mi" />}/>
+// <Route path="/Contact" render={()=> <Contact title = "Contactame" />}/>

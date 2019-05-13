@@ -1,37 +1,18 @@
-//import React, {Component} from 'react';
 import React from 'react';
+import {Link} from 'react-router-dom';
 
-// class Navigation extends Component {
-//   render() {
-//     return(
-//       <nav>
-//         <div class="nav-wrapper">
-//           <a href="#" class="brand-logo">Logo</a>
-//           <ul id="nav-mobile" class="right hide-on-med-and-down">
-//             <li><a href="sass.html">Sass</a></li>
-//             <li><a href="badges.html">Components</a></li>
-//             <li><a href="collapsible.html">JavaScript</a></li>
-//           </ul>
-//         </div>
-//       </nav>
-//     )
-//   }
-// }
-//
+const navigation = (props)=> (
+  <nav>
+    <div class="nav-wrapper">
+      <Link exact to="/" class="brand-logo">{props.title}</Link>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><Link exact to="/">Inicio</Link></li>
+        <li><Link to="/AboutMe">acerca de mi</Link></li>
+        <li><Link to="/Contact">Contactame</Link></li>
+      </ul>
+    </div>
+  </nav>
+)
 
-function navigation() {
-  return (
-    <nav>
-      <div class="nav-wrapper">
-        <a href="#" class="brand-logo">Logo</a>
-        <ul id="nav-mobile" class="right hide-on-med-and-down">
-          <li><a href="sass.html">Sass</a></li>
-          <li><a href="badges.html">Components</a></li>
-          <li><a href="collapsible.html">JavaScript</a></li>
-        </ul>
-      </div>
-    </nav>
-  );
-}
 
 export default navigation;
