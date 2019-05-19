@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/Portafolio/static/css/main.c052887c.chunk.css",
-    "main.js": "/Portafolio/static/js/main.62046334.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.62046334.chunk.js.map",
+    "main.css": "/Portafolio/static/css/main.bc140e34.chunk.css",
+    "main.js": "/Portafolio/static/js/main.673adfaf.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.673adfaf.chunk.js.map",
     "runtime~main.js": "/Portafolio/static/js/runtime~main.9747bc56.js",
     "runtime~main.js.map": "/Portafolio/static/js/runtime~main.9747bc56.js.map",
-    "static/js/2.9aeef01b.chunk.js": "/Portafolio/static/js/2.9aeef01b.chunk.js",
-    "static/js/2.9aeef01b.chunk.js.map": "/Portafolio/static/js/2.9aeef01b.chunk.js.map",
+    "static/js/2.60a2c6cc.chunk.js": "/Portafolio/static/js/2.60a2c6cc.chunk.js",
+    "static/js/2.60a2c6cc.chunk.js.map": "/Portafolio/static/js/2.60a2c6cc.chunk.js.map",
     "index.html": "/Portafolio/index.html",
-    "precache-manifest.a41b5411e182ef0a935849e0500ff0fb.js": "/Portafolio/precache-manifest.a41b5411e182ef0a935849e0500ff0fb.js",
+    "precache-manifest.457ebcc1d33695ac36cfcc8a5aeddc2b.js": "/Portafolio/precache-manifest.457ebcc1d33695ac36cfcc8a5aeddc2b.js",
     "service-worker.js": "/Portafolio/service-worker.js",
-    "static/css/main.c052887c.chunk.css.map": "/Portafolio/static/css/main.c052887c.chunk.css.map"
+    "static/css/main.bc140e34.chunk.css.map": "/Portafolio/static/css/main.bc140e34.chunk.css.map",
+    "static/media/cipher.png": "/Portafolio/static/media/cipher.9cc3f8de.png",
+    "static/media/diana.jpg": "/Portafolio/static/media/diana.101cf369.jpg",
+    "static/media/mdlinks.png": "/Portafolio/static/media/mdlinks.8e2020bd.png",
+    "static/media/pokemon.png": "/Portafolio/static/media/pokemon.f58012fe.png"
   }
 }
