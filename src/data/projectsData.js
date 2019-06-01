@@ -1,6 +1,7 @@
 import cipher from '../images/cipher.png';
 import pokemon from '../images/pokemon.png';
 import mdlinks from '../images/mdlinks.png';
+import moodvie from '../images/moodvie.png';
 export const ProjectsList = [
   {
     id:1,
@@ -25,5 +26,13 @@ export const ProjectsList = [
     urlDeploy:'https://www.npmjs.com/package/mdlinks-dlmp',
     urlImage:mdlinks,
     description:'Es una libreria de npm que te permite leer los archivos Markdown e identificar los links que contiene dicho archivo, mediante comandos el usuario puede solicitar ver el listado de links o bien estadísticas del número de links existentes en el archivo o el número de links rotos. Para su desarrollo se utilizó Javascript, Node.js, y la libreria Markdown-it.'
+  },
+  {
+    id:4,
+    name:'Moodvie',
+    urlGit:'https://github.com/DianaLiz11/Peliculas-entomatadas',
+    urlDeploy:'https://dianaliz11.github.io/Peliculas-entomatadas/src/',
+    urlImage:moodvie,
+    description:'¡Una película para cada estado de ánimo! Moodvie es una Web App de recomendación de películas que esta enfocada a que la elección de películas sea fácil y rápida para los usuarios; derivado de esta prioridad, la aplicación te sugiere las películas con base a tu estado de ánimo.'
   }
 ];
