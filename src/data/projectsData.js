@@ -13,7 +13,7 @@ export const ProjectsList = [
   },
   {
     id:2,
-    name:'Enciclopedia Pokemon',
+    name:'Pokemon',
     urlGit:'https://github.com/DianaLiz11/cdmx-2019-01-bc-core-data-lovers',
     urlDeploy:'https://dianaliz11.github.io/cdmx-2019-01-bc-core-data-lovers/src/',
     urlImage:pokemon,
