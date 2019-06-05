@@ -4,7 +4,7 @@ import {ProjectsList} from '../data/projectsData';
 const Projects = () => {
   let projects = ProjectsList.map((project) => {
     return (
-      <div className='col s12'>
+      <div className='col s12 l6' key={project.id}>
       <div className='card' key={project.id}>
         <div className='card-image waves-effect waves-block waves-light'>
           <img className='activator' src={project.urlImage} alt={project.name}/>
@@ -24,7 +24,7 @@ const Projects = () => {
   });
 
   return (
-    <div className='container'>
+    <div className='row'>
       {projects}
     </div>
   );
