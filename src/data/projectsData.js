@@ -1,7 +1,7 @@
-import cipher from '../images/cipher.png';
-import pokemon from '../images/pokemon.png';
-import mdlinks from '../images/mdlinks.png';
-import moodvie from '../images/moodvie.png';
+import cipher from '../images/cipher2.png';
+import pokemon from '../images/pokemon2.png';
+import mdlinks from '../images/mdlinks2.png';
+import moodvie from '../images/moodvie2.png';
 export const ProjectsList = [
   {
     id:1,
