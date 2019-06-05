@@ -9,6 +9,7 @@ import iFirebase from '../images/firebase.png';
 import iNodejs from '../images/nodejs.png';
 import iMaterialize from '../images/materialize.jpg';
 import cv from '../documents/cv_Diana.pdf';
+import '../App.css';
 
 const AboutMe = () => (
   <div className = 'container'>
@@ -31,7 +32,7 @@ const AboutMe = () => (
           cualidades como la capacidad de análisis y la adaptabilidad a
           diferentes ambientes de trabajo, así como a diferentes circunstancias.</p>
         <p>Si te interesa conocer un poco más de mi trayectoria profesional,
-          te invito a descargar mi cv <a href={cv} target='_blank' >aqui</a>.</p>
+          te invito a descargar mi cv <a href={cv} target='_blank' rel='noopener noreferrer' >aqui</a>.</p>
     </div>
     <div className="divider"></div>
     <div className='row'>
