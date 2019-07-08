@@ -13,15 +13,15 @@ const sectionFooter = (props)=> (
             <tbody>
               <tr>
                 <td><i className='fab fa-github'></i></td>
-                <td><a className='cyan-text text-lighten-4' href='https://github.com/DianaLiz11/'>DianaLiz11</a></td>
+                <td><a className='cyan-text text-lighten-4' href='https://github.com/DianaLiz11/' target='_blank' rel='noopener noreferrer'>DianaLiz11</a></td>
               </tr>
               <tr>
                 <td><i className='fab fa-linkedin'></i></td>
-                <td><a className='cyan-text text-lighten-4' href='https://www.linkedin.com/in/diana-lizbeth-mu%C3%B1oz-p%C3%A9rez/'>diana-lizbeth-muñoz-perez</a></td>
+                <td><a className='cyan-text text-lighten-4' href='https://www.linkedin.com/in/diana-lizbeth-mu%C3%B1oz-p%C3%A9rez/' target='_blank' rel='noopener noreferrer'>diana-lizbeth-muñoz-perez</a></td>
               </tr>
               <tr>
                 <td><i className='fab fa-google'></i></td>
-                <td><a className='cyan-text text-lighten-4' href='dianamunoz86@gmail.com'>dianamunoz86@gmail.com</a></td>
+                <td><a className='cyan-text text-lighten-4' href='mailto:dianamunoz86@gmail.com'>dianamunoz86@gmail.com</a></td>
               </tr>
             </tbody>
           </table>
