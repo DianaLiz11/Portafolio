@@ -20,24 +20,22 @@ const AboutMe = () => (
       <div className='col s8'></div>
         <h4 className='teal-text text-lighten-2'>Diana Muñoz</h4>
         <h6 className='pink-text text-darken-2'>Front End Developer</h6>
-        <p>Convencida de que no existen los imposibles, soy una persona con un
-          gran interés en superarme y crecer cada día, siempre decidida a cumplir
-          mis metas y objetivos.</p>
-        <p>Estudie la Licenciatura en informática y además realicé un bootcamp en
-          Laboratoria Coding con la especialidad de <strong>Front End Developer</strong>.
+        <p>Estudie la Licenciatura en informática y soy egresada de
+          Laboratoria Coding de la especialidad de <strong>Front End Developer</strong>.
           Estoy consciente que todo va cambiando día a día, por lo cual siempre
-          busco aprender cosas nuevas.</p>
+          busco aprender cosas nuevas y actualizarme en los conocimientis ya
+          adquiridos, siempre decidida a cumplir mis metas</p>
         <p>En el ámbito profesional he trabajado en diferentes áreas, de las
           cuales me he llevado grandes aprendizajes y me han permitido desarrollar
           cualidades como la capacidad de análisis y la adaptabilidad a
           diferentes ambientes de trabajo, así como a diferentes circunstancias.</p>
         <p>Si te interesa conocer un poco más de mi trayectoria profesional,
-          te invito a descargar mi cv <a href={cv} target='_blank' rel='noopener noreferrer' >aqui</a>.</p>
+          te invito a <a href={cv} target='_blank' rel='noopener noreferrer' >descargar mi cv</a>.</p>
     </div>
     <div className="divider"></div>
     <div className='row'>
       <div className='col s12'>
-        <blockquote><h5>Ofrezco mis servicios en tecnologías como:</h5></blockquote>
+        <blockquote><h5>Tengo conocimientos en tecnologías como:</h5></blockquote>
         <table className="responsive-table">
             <tbody>
               <tr>
