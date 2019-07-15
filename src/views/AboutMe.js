@@ -23,7 +23,7 @@ const AboutMe = () => (
         <p>Estudie la Licenciatura en informática y soy egresada de
           Laboratoria Coding de la especialidad de <strong>Front End Developer</strong>.
           Estoy consciente que todo va cambiando día a día, por lo cual siempre
-          busco aprender cosas nuevas y actualizarme en los conocimientis ya
+          busco aprender cosas nuevas y reforzar los conocimientos ya
           adquiridos, siempre decidida a cumplir mis metas</p>
         <p>En el ámbito profesional he trabajado en diferentes áreas, de las
           cuales me he llevado grandes aprendizajes y me han permitido desarrollar
