@@ -10,3 +10,16 @@ p{
   /*font-family: 'Bad Script', cursive;*/
   font-family: 'Courgette', cursive;
 }
+
+.center{
+  justify-content: center;
+}
+
+.margin-x{
+  padding-left: 4em;
+  padding-right: 2em;
+}
+
+li:hover{
+  background-color: #ad1457;
+}

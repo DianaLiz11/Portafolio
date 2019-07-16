@@ -8,6 +8,7 @@ import iBootstrap from '../images/bootstrap.png';
 import iFirebase from '../images/firebase.png';
 import iNodejs from '../images/nodejs.png';
 import iMaterialize from '../images/materialize.jpg';
+import iGitHub from '../images/github.png'
 import cv from '../documents/cv_Diana.pdf';
 import '../App.css';
 
@@ -34,9 +35,9 @@ const AboutMe = () => (
     </div>
     <div className="divider"></div>
     <div className='row'>
-      <div className='col s12'>
+      <div className='col s12 center'>
         <blockquote><h5>Tengo conocimientos en tecnologías como:</h5></blockquote>
-        <table className="responsive-table">
+        <table className='responsive-table'>
             <tbody>
               <tr>
                 <td><img src={iJavascript} alt='JavaScript'/></td>
@@ -59,8 +60,8 @@ const AboutMe = () => (
                 <td>Firebase</td>
                 <td><img src={iNodejs} alt='Nodejs'/></td>
                 <td>Nodejs</td>
-                <td></td>
-                <td></td>
+                <td><img src={iGitHub} alt='GitHub'/></td>
+                <td>GitHub</td>
               </tr>
 
             </tbody>
