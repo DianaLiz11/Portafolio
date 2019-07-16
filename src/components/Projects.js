@@ -11,8 +11,8 @@ const Projects = () => {
         </div>
         <div className='card-content'>
           <span className='card-title activator grey-text text-darken-4'>{project.name}<i className='material-icons right'>more_vert</i></span>
-          <p><a href={project.urlGit} target='_blank' rel='noopener noreferrer'>Link del proyecto en github</a></p>
-          <p><a href={project.urlDeploy} target='_blank' rel='noopener noreferrer'>Link Demo</a></p>
+          <p><a href={project.urlGit} target='_blank' rel='noopener noreferrer'>Código</a></p>
+          <p><a href={project.urlDeploy} target='_blank' rel='noopener noreferrer'>Demo</a></p>
         </div>
         <div className="card-reveal light-blue lighten-5">
           <span className='card-title pink-text text-accent-3'>{project.name}<i className='material-icons right'>close</i></span>
