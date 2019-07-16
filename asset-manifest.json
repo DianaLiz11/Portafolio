@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Portafolio/static/css/main.e7d01676.chunk.css",
-    "main.js": "/Portafolio/static/js/main.5fd62992.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.5fd62992.chunk.js.map",
+    "main.css": "/Portafolio/static/css/main.cf844eac.chunk.css",
+    "main.js": "/Portafolio/static/js/main.366cfb6d.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.366cfb6d.chunk.js.map",
     "runtime~main.js": "/Portafolio/static/js/runtime~main.9747bc56.js",
     "runtime~main.js.map": "/Portafolio/static/js/runtime~main.9747bc56.js.map",
-    "static/js/2.6588497d.chunk.js": "/Portafolio/static/js/2.6588497d.chunk.js",
-    "static/js/2.6588497d.chunk.js.map": "/Portafolio/static/js/2.6588497d.chunk.js.map",
+    "static/js/2.ab35eb9a.chunk.js": "/Portafolio/static/js/2.ab35eb9a.chunk.js",
+    "static/js/2.ab35eb9a.chunk.js.map": "/Portafolio/static/js/2.ab35eb9a.chunk.js.map",
     "index.html": "/Portafolio/index.html",
-    "precache-manifest.8b659e1a323629de2d3c331024f0079f.js": "/Portafolio/precache-manifest.8b659e1a323629de2d3c331024f0079f.js",
+    "precache-manifest.d15bcfa31430ccedc9106b312fc0b88a.js": "/Portafolio/precache-manifest.d15bcfa31430ccedc9106b312fc0b88a.js",
     "service-worker.js": "/Portafolio/service-worker.js",
-    "static/css/main.e7d01676.chunk.css.map": "/Portafolio/static/css/main.e7d01676.chunk.css.map",
-    "static/media/cipher2.png": "/Portafolio/static/media/cipher2.1ea87c4f.png",
+    "static/css/main.cf844eac.chunk.css.map": "/Portafolio/static/css/main.cf844eac.chunk.css.map",
+    "static/media/DM-logo.png": "/Portafolio/static/media/DM-logo.f73a3553.png",
+    "static/media/cipher.png": "/Portafolio/static/media/cipher.b4833ac8.png",
     "static/media/cv_Diana.pdf": "/Portafolio/static/media/cv_Diana.691b7f9b.pdf",
     "static/media/diana.jpg": "/Portafolio/static/media/diana.101cf369.jpg",
-    "static/media/mdlinks2.png": "/Portafolio/static/media/mdlinks2.5a8b150f.png",
-    "static/media/moodvie2.png": "/Portafolio/static/media/moodvie2.0512ccfd.png",
-    "static/media/pokemon2.png": "/Portafolio/static/media/pokemon2.f1294161.png"
+    "static/media/mdlinks.png": "/Portafolio/static/media/mdlinks.80ad3463.png",
+    "static/media/moodvie.png": "/Portafolio/static/media/moodvie.28afb561.png",
+    "static/media/pokemon.png": "/Portafolio/static/media/pokemon.c52e435d.png"
   }
 }
