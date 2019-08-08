@@ -9,7 +9,7 @@ const navigation = (props)=> (
       <Link to='/' className='brand-logo left pink-text text- accent-3'><img className='responsive-img' src={logoDM} alt='DM'/></Link>
       <ul id="nav-mobile" className="right">
         <li><Link to='/' className='flow-text'>Acerca de mi</Link></li>
-        <li><Link to='/MyWork' className='flow-text'>Mi trabajo</Link></li>
+        <li><Link to='/MyWork' className='flow-text'>Mis Proyectos</Link></li>
       </ul>
     </div>
   </nav>
